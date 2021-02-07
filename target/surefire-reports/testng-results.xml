@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="smokeTestScripts.LoginTest" duration-ms="68" started-at="2021-02-06T18:53:22Z" finished-at="2021-02-06T18:53:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="68" started-at="2021-02-06T18:53:22Z" finished-at="2021-02-06T18:53:22Z">
+      <class name="smokeTestScripts.LoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:smokeTestScripts.LoginTest@2cb4c3ab]" name="Login" duration-ms="24" started-at="2021-02-07T00:23:22Z" finished-at="2021-02-07T00:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- smokeTestScripts.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- smokeTestScripts.LoginTest -->
+</testng-results>
