@@ -16,4 +16,9 @@ public class LoginTest {
 		System.out.println("Good BYE...");
 	}
 	
+	@Test
+	public void welcomeMessgae()
+	{
+		System.out.println("Welcome");
+	}
 }
