@@ -19,6 +19,6 @@ public class LoginTest {
 	@Test
 	public void welcomeMessgae()
 	{
-		System.out.println("Welcome");
+		System.out.println("...Welcome...");
 	}
 }
