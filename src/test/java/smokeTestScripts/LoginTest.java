@@ -19,11 +19,7 @@ public class LoginTest {
 	@Test
 	public void welcomeMessgae()
 	{
-<<<<<<< Updated upstream
 		System.out.println("...Welcome...");
-=======
-		System.out.println("Welcome");
 		System.out.println("Get started");
->>>>>>> Stashed changes
 	}
 }
