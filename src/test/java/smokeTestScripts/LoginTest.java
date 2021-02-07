@@ -10,4 +10,10 @@ public class LoginTest {
 	System.out.println("Welcome to login page");	
 	}
 	
+	@Test
+	public void Logout()
+	{
+		System.out.println("Good BYE");
+	}
+	
 }
