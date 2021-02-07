@@ -13,7 +13,7 @@ public class LoginTest {
 	@Test
 	public void Logout()
 	{
-		System.out.println("Good BYE");
+		System.out.println("Good BYE...");
 	}
 	
 }
